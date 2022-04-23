@@ -1,0 +1,2 @@
+Nama perangkat : Cisco ROuter 2811, Lokasi : Gedung A
+Nama perangkat : Cisco ASA 5511, Lokasi : Gedung C
